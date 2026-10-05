@@ -4,3 +4,9 @@
 .vscode/launch.json
 .vscode/ipch
 src/secrets.h
+
+# Local badge configuration and personal startup image
+e_badge/BadgeSecrets.h
+e_badge/data/*.jpg
+e_badge/data/*.jpeg
+.DS_Store
